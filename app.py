@@ -1,6 +1,6 @@
 # app.py
 
-numbers = [10, 25, 5, 40, 60, 15, 35, 20, 50, 30]
+numbers = [10, 25, 5, 40, 60, 15, 35, 20, 50, 30,80]
 
 highest = max(numbers)
 lowest = min(numbers)
